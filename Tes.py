@@ -1,1 +1,1 @@
-print("ini tulisan")
+print("Hello World")
